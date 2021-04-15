@@ -1,0 +1,19 @@
+LESModel/LESModel.C
+DESModel/DESModel.C
+GenEddyVisc/GenEddyVisc.C
+GenSGSStress/GenSGSStress.C
+
+Smagorinsky/Smagorinsky.C
+oneEqEddy/oneEqEddy.C
+lowReOneEqEddy/lowReOneEqEddy.C
+homogeneousDynOneEqEddy/homogeneousDynOneEqEddy.C
+DeardorffDiffStress/DeardorffDiffStress.C
+SpalartAllmaras/SpalartAllmaras.C
+mixGCDSM/mixGCDSM.C
+mixGCDSM_Flux/mixGCDSM_Flux.C
+WALE/WALE.C
+dynLocalAverageSmagorinskyLily/dynLocalAverageSmagorinskyLily.C
+compressibleLESdelta/compressibleLESdelta.C
+vanDriestDelta/vanDriestDelta.C
+
+LIB = $(FOAM_USER_LIBBIN)/libFPVcompressibleLESModels

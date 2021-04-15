@@ -1,0 +1,4 @@
+FPVFoam.C
+precursorHDF5/precursorHDF5FvPatchFields.C
+
+EXE = $(FOAM_USER_APPBIN)/FPVwzyFoam

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "FPVFoam.C": "cpp",
+        "DESModel.C": "cpp"
+    }
+}
